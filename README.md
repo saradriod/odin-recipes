@@ -1,1 +1,2 @@
 # odin-recipes
+Today is my day of 1 learning to code and it was very exiting and very tricky. The assignment given was to make a recipe page and I am currentyl trying to complete it. Hope I can make it. :)
